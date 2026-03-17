@@ -50,3 +50,27 @@ I enjoy working with data, building predictive models, and creating solutions th
 ---
 
 ## 📁 Folder Structure
+portfolio/
+│── index.html
+│── README.md
+│
+├── assets/
+│ ├── images/
+│ └── resume/
+
+
+---
+
+## ⚙️ How to Run Locally
+1. Clone the repository:
+git clone https://github.com/Adarshraj06/your-repo-name.git
+3. Open the folder:
+cd your-repo-name
+4. Open index.html in your browser.
+
+---
+
+📬 Contact Me
+📧 Email: adarshraj7750@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/adarshraj06
+🐙 GitHub: https://github.com/Adarshraj06
