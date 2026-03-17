@@ -1,32 +1,52 @@
-# Adarsh Raj — Portfolio Website
+# 🌐 Adarsh Raj - Portfolio Website
 
-A clean, modern, recruiter-friendly portfolio for a Computer Science / Data Science student.
+Welcome to my personal portfolio website!  
+This portfolio showcases my **projects, skills, achievements, and experience** as a Computer Science student with a strong interest in **Data Science and Machine Learning**.
 
-## 🚀 How to Deploy on GitHub Pages
+---
 
-1. Create a new GitHub repository named `adarshraj06.github.io` (or any name like `portfolio`)
-2. Upload `index.html` (and `Adarsh_Raj_Resume.pdf` when ready) to the root of the repo
-3. Go to **Settings → Pages → Source → main branch / root**
-4. Your portfolio will be live at `https://adarshraj06.github.io`
+## 🚀 Live Portfolio
+🔗 (Add your deployed link here)
 
-## 📝 What to Customize
+---
 
-| What | Where in the file |
-|------|-------------------|
-| Profile photo | Replace the SVG placeholder in `.photo-placeholder` with `<img src="your-photo.jpg" ...>` |
-| Resume PDF | Add your `Adarsh_Raj_Resume.pdf` file next to `index.html` |
-| Project GitHub links | Update `href` on each `.project-link.gh` button |
-| Live demo links | Update `href` on each `.project-link.demo` button |
-| GitHub stats | Update the `—` values in the Open Source section with real numbers |
-| Achievements | Fill in the `.ach-placeholder` cards with your real achievements |
-| Project screenshots | Replace the SVG icons in `.project-img` with actual `<img>` tags |
+## 📌 About Me
+I am a **B.Tech Computer Science student at Lovely Professional University** with a passion for **data science, machine learning, and analytics**.  
 
-## ✨ Features
+I enjoy working with data, building predictive models, and creating solutions that solve real-world problems.
 
-- Sticky navbar with mobile hamburger menu
-- Smooth scroll + fade-up animations on scroll
-- Dark / Light mode toggle (bottom-right button)
-- Downloadable resume button
-- Contact form with validation
-- Fully responsive (mobile + desktop)
-- No dependencies — pure HTML/CSS/JS
+---
+
+## 🛠 Tech Stack
+- **Frontend:** HTML, CSS, JavaScript / React  
+- **Styling:** Tailwind CSS  
+- **Tools:** Git, GitHub, VS Code  
+- **Other:** Responsive Design, UI/UX Principles  
+
+---
+
+## 📂 Features
+- 👤 Hero section with profile and resume
+- 📄 About Me section
+- ⚙️ Skills showcase
+- 🚀 Projects with descriptions and highlights
+- 💼 Experience & Training
+- 🎓 Education details
+- 🏅 Certifications & Achievements
+- 🔗 Open Source / GitHub section
+- 📬 Contact section
+
+---
+
+## 🚀 Projects Included
+- 📊 Customer Segmentation (RFM + KMeans)
+- 🤖 Employee Attrition Prediction (Machine Learning)
+- 🦠 COVID-19 Mortality Analysis
+- 🎧 Spotify Listening Analysis
+- 💼 Portfolio Rebalancer (Flask App)
+- 🌱 Eco-System Protection Website
+- 🌐 Personal Portfolio Website
+
+---
+
+## 📁 Folder Structure
