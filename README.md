@@ -6,7 +6,7 @@ This portfolio showcases my **projects, skills, achievements, and experience** a
 ---
 
 ## 🚀 Live Portfolio
-🔗 (Add your deployed link here)
+🔗 https://adarshraj06.github.io/My-Portfolio/
 
 ---
 
