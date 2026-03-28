@@ -4,6 +4,8 @@ Welcome to my personal portfolio website!
 This portfolio showcases my **projects, skills, achievements, and experience** as a Computer Science student with a strong interest in **Data Science and Machine Learning**.
 
 ---
+<img width="1917" height="909" alt="image" src="https://github.com/user-attachments/assets/4ff70a98-a12f-4e5d-9a7b-881f391226a3" />
+
 
 ## 🚀 Live Portfolio
 🔗 https://adarshraj06.github.io/My-Portfolio/
