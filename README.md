@@ -4,8 +4,7 @@ Welcome to my personal portfolio website!
 This portfolio showcases my **projects, skills, achievements, and experience** as a Computer Science student with a strong interest in **Data Science and Machine Learning**.
 
 ---
-<img width="1917" height="909" alt="image" src="<img width="1917" height="898" alt="image" src="https://github.com/user-attachments/assets/e60c19c2-39fb-4063-8a69-87a35ecda0dc" />
-" />
+<img width="1917" height="909" alt="image" src="<img width="1917" height="898" alt="image" src="https://github.com/user-attachments/assets/e60c19c2-39fb-4063-8a69-87a35ecda0dc" />" />
 
 
 ## 🚀 Live Portfolio
